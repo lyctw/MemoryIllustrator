@@ -1,5 +1,6 @@
-online tool using
-https://c3js.org/samples/simple_xy.html
+# Memory Illustrator
+
+
 1. Image to teach user dump log file https://tinyurl.com/y4y7lcjl
 
 Input dump.txt
@@ -16,9 +17,8 @@ Input dump.txt
 0x2000054C  D7 B3 5D BF 5E 83 EC BE - B2 E4 A8 BF 8D 65 97 BF ..].^........e..
 ```
 
-2. 
-plot `outputAry` with C3.js
-
+2. plot `outputAry` with C3.js
+    * https://c3js.org/samples/simple_xy.html
 
 
 ## Run server locally..
