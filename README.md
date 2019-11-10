@@ -25,5 +25,6 @@ Input dump.txt
 ## Run server locally..
 
 1. install create-react-app
-2. cd app/ `yarn install`
-3. `yarn start`
+2. cd app/ 
+3. `yarn install`
+4. `yarn dev-server`
