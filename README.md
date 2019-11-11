@@ -1,6 +1,6 @@
 # Memory Illustrator
 
-[demo](http://homepage.ntu.edu.tw/~r07943154/demo/MemoryIllustrator/)
+[![](https://i.imgur.com/QXtViZ3.png)](https://syokujinau.github.io/demo/MemoryIllustrator/)
 
 1. Image to teach user dump log file https://tinyurl.com/y4y7lcjl
 
