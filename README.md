@@ -1,6 +1,6 @@
 # Memory Illustrator
 
-[![](https://i.imgur.com/QXtViZ3.png)](https://syokujinau.github.io/demo/MemoryIllustrator/)
+[<img src="https://i.imgur.com/CExsoNY.png" width="100px" />](https://syokujinau.github.io/demo/MemoryIllustrator/)
 
 1. Image to teach user dump log file https://tinyurl.com/y4y7lcjl
 
